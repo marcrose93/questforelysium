@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/questforelysium/static/css/main.0dbe85f1.css",
+    "main.js": "/questforelysium/static/js/main.7feaa225.js",
+    "static/js/592.8037d7d5.chunk.js": "/questforelysium/static/js/592.8037d7d5.chunk.js",
+    "static/media/backcardgif.gif": "/questforelysium/static/media/backcardgif.c5a0553711edad110b7c.gif",
+    "static/media/deckcover.png": "/questforelysium/static/media/deckcover.2b141d11e9db6a3fc0d6.png",
+    "static/media/monster.png": "/questforelysium/static/media/monster.5a95cc340628cd5fa2af.png",
+    "static/media/coins.png": "/questforelysium/static/media/coins.c59448adaba331034432.png",
+    "static/media/magicDust.png": "/questforelysium/static/media/magicDust.9bf069e3b641407cd275.png",
+    "static/media/elysiumBorder.png": "/questforelysium/static/media/elysiumBorder.b0dadce9ef6008a23b5e.png",
+    "static/media/compass.png": "/questforelysium/static/media/compass.1f699a2f7b249bf5c1a6.png",
+    "static/media/spellbook.png": "/questforelysium/static/media/spellbook.44db821b14cde56843b0.png",
+    "static/media/potion2.png": "/questforelysium/static/media/potion2.e841384a0763d4f6dfe1.png",
+    "static/media/elysiumLogo.png": "/questforelysium/static/media/elysiumLogo.6aa5180274fd5101ffaa.png",
+    "static/media/crown.png": "/questforelysium/static/media/crown.2a963d757eca25db6eab.png",
+    "static/media/potion3.png": "/questforelysium/static/media/potion3.1f85480814c8ff9c9a8f.png",
+    "static/media/calendarBG.png": "/questforelysium/static/media/calendarBG.a0ce5d7c0fd600492723.png",
+    "static/media/necklace.png": "/questforelysium/static/media/necklace.895b00bbe63c6065f3f9.png",
+    "static/media/feather.png": "/questforelysium/static/media/feather.72f2a7ffb445e4d51ee3.png",
+    "static/media/sword.png": "/questforelysium/static/media/sword.5af7f8919e46713b38be.png",
+    "static/media/potion.png": "/questforelysium/static/media/potion.484040ae1ab269b1c136.png",
+    "static/media/dividerQuest.png": "/questforelysium/static/media/dividerQuest.645ccf6901d001d8ef25.png",
+    "static/media/container.less": "/questforelysium/static/media/container.78c146aa60c76dda9b02.less",
+    "index.html": "/questforelysium/index.html",
+    "main.0dbe85f1.css.map": "/questforelysium/static/css/main.0dbe85f1.css.map",
+    "main.7feaa225.js.map": "/questforelysium/static/js/main.7feaa225.js.map",
+    "592.8037d7d5.chunk.js.map": "/questforelysium/static/js/592.8037d7d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbe85f1.css",
+    "static/js/main.7feaa225.js"
+  ]
+}
