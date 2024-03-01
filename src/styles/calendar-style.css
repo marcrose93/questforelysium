@@ -1,0 +1,17 @@
+:root {
+  --fc-border-color: rgb(245, 208, 208);
+  --fc-daygrid-event-dot-width: 5px;
+  --fc-page-bg-color: silver;
+  --fc-list-event-dot-width: 10px;
+  --fc-list-event-hover-bg-color: #d65ab7;
+  --fc-highlight-color: rgba(198, 24, 225, 0.3);
+  --fc-small-font-size: 0.85em;
+  --fc-event-border-color: #3788d8;
+  --fc-today-bg-color: rgb(11, 12, 12);
+  --fc-event-border-color: black;
+  /* FIX RED OUTLINEin EVENT */
+
+
+  }
+
+ 

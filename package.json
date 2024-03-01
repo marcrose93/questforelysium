@@ -3,19 +3,33 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullcalendar/core": "^6.1.11",
+    "@fullcalendar/daygrid": "^6.1.11",
+    "@fullcalendar/interaction": "^6.1.11",
+    "@fullcalendar/react": "^6.1.11",
+    "@react-spring/web": "^9.7.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@use-gesture/react": "^10.3.0",
     "react": "^18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
+    "react-grid-layout": "^1.4.4",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.1",
     "react-scripts": "5.0.1",
+    "react-tilt": "^1.0.2",
+    "rsuite": "^5.53.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build-less": "lessc src/styles/container.less src/styles/container.css"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "less": "^4.2.0"
   }
 }
